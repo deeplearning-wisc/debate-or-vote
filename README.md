@@ -42,7 +42,7 @@ To run Sparse MAD or Centralized MAD, add ```--sparse``` or ```--centralized``` 
 
 ## Citation
 ```
-@inproceedings{choi2022debate,
+@inproceedings{choi2025debate,
   title={Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?},
   author={Choi, Hyeong Kyu and Zhu, Xiaojin and Li, Yixuan},
   booktitle={Advances in Neural Information Processing Systems},
