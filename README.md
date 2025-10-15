@@ -44,7 +44,7 @@ To run Sparse MAD or Centralized MAD, add ```--sparse``` or ```--centralized``` 
 ```
 @inproceedings{choi2025debate,
   title={Debate or Vote: Which Yields Better Decisions in Multi-Agent Large Language Models?},
-  author={Choi, Hyeong Kyu and Zhu, Xiaojin and Li, Yixuan},
+  author={Choi, Hyeong Kyu and Zhu, Xiaojin and Li, Sharon},
   booktitle={Advances in Neural Information Processing Systems},
   year={2025}
 }
